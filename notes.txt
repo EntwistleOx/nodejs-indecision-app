@@ -7,3 +7,5 @@ babel src\playground\es6-arrow-functions2.js --out-file=public\scripts\app.js --
 3. change state based on event
 4. component re-rendered using new state values (behind scenes)
 5. start again at 3
+
+Test

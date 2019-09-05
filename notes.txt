@@ -1,0 +1,9 @@
+babel src/app.js --out-file=public\scripts\app.js --presets=env,react --watch
+
+babel src\playground\es6-arrow-functions2.js --out-file=public\scripts\app.js --presets=env,react --watch
+
+1. setup default state obj
+2. component rendered with default state values (behing scenes)
+3. change state based on event
+4. component re-rendered using new state values (behind scenes)
+5. start again at 3

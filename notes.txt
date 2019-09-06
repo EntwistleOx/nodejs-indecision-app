@@ -8,4 +8,6 @@ babel src\playground\es6-arrow-functions2.js --out-file=public\scripts\app.js --
 4. component re-rendered using new state values (behind scenes)
 5. start again at 3
 
-Test
+Life cycles component are availables only in classes component
+
+Stateless functional component dont have Life cycle 
